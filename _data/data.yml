@@ -15,24 +15,12 @@ sidebar:
     # Sidebar links
     email: buralidev@gmail.com
     phone: 012 345 6789
-    timezone: America/Detroit # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
     website: https://buralidev.github.io/online-resume/ # Include the full website URL, including "http://" or "https://".
     linkedin: alandoe
-    xing: alandoe
     github: BuraliDev
-    telegram: # add your nickname without '@' sign
-    gitlab:
     bitbucket:
     twitter: '@BuraliDev'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
-
+    
     languages:
       title: Languages
       info:
